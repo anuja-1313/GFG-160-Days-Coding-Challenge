@@ -1,3 +1,5 @@
+package Arrays;
+
 public class RotateArray {
 
 //Rotate Array -  GFG (Medium)

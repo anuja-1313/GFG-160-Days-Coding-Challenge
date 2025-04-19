@@ -1,3 +1,5 @@
+package Arrays;
+
 /*
 Move All Zeroes to End - Easy
 TC: O(N)

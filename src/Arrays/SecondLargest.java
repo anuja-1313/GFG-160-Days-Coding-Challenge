@@ -1,3 +1,5 @@
+package Arrays;
+
 public class SecondLargest {
 /*
 Second Largest - Easy
